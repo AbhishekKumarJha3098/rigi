@@ -11,7 +11,7 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Landio - Landing page</h2>
+  <h2 align="center">Landing page</h2>
 
   Landio is a fully responsive landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
