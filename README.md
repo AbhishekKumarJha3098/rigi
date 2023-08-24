@@ -13,9 +13,9 @@
 
   <h2 align="center">Landing page</h2>
 
-  Landio is a fully responsive landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Logo is a fully responsive landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/landio/"><strong>➥ Live Demo</strong></a>
+  
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ### Run Locally
 
-To run **Landio** locally, run this command on your git bash:
+To run **Logo** locally, run this command on your git bash:
 
 Linux and macOS:
 
