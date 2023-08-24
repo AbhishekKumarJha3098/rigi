@@ -9,7 +9,7 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Gn3zJrLfVPODdrgUP558nZxf7_GBAl4qBzudcuD8qdd1TrIg" />
 
   <h2 align="center">Landing page</h2>
 
@@ -21,15 +21,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Landio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ### Run Locally
 
